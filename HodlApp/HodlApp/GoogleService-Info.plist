@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>701564858341-4mcnm5n5beoiqm8mma7b47v37v1qm2j6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.701564858341-4mcnm5n5beoiqm8mma7b47v37v1qm2j6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhZqzlfw7ghgthzgLbj5BT2qS5tb3iHE8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>701564858341</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>DummyKu.HodlApp</string>
+	<key>PROJECT_ID</key>
+	<string>hodlapp-79018</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hodlapp-79018.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:701564858341:ios:d11307a717a40fa3d4c90c</string>
+</dict>
+</plist>
