@@ -1,46 +1,66 @@
-# Hodl Coin Tracker App for iOS
+# Hodl - Your Cryptocurrency Portfolio Tracker for iOS
 
-Welcome to the Coin Tracker App for iOS project! This mobile application allows you to track cryptocurrency prices and information in real-time using data from the CoinGecko API. Whether you're a crypto enthusiast, investor, or just curious about cryptocurrency trends, this app is designed to keep you updated.
+Welcome to Hodl, your go-to cryptocurrency portfolio tracker for iOS! Hodl allows you to effortlessly manage your cryptocurrency holdings, access real-time market data from the CoinGecko API, stay informed about your crypto investments, and explore information about cryptocurrency exchanges. Whether you're a seasoned crypto enthusiast or just getting started, Hodl has you covered.
 
 ## Overview
 
-The Coin Tracker App for iOS provides real-time cryptocurrency data, including prices, market capitalization, volume, historical data, and more. With an intuitive and user-friendly interface, you can easily access information about thousands of cryptocurrencies at your fingertips.
+Hodl is designed to simplify the process of managing your cryptocurrency portfolio. With real-time data updates and an intuitive user interface, you can easily keep track of your investments, make informed decisions, and explore details about cryptocurrency exchanges.
 
 ## Features
 
+### Real-Time Portfolio Tracking
+
+- Create and manage your cryptocurrency portfolio with ease.
+- Add your holdings and track their current value in real-time.
+- Get an overview of your portfolio's performance and growth.
+
 ### Real-Time Data
 
-- Fetches live cryptocurrency data from the CoinGecko API.
-- Provides up-to-the-minute price updates, market capitalization, and trading volume.
+- Utilizes the CoinGecko API to provide up-to-the-minute cryptocurrency data.
+- Stay informed about live prices, market capitalization, volume, and more.
 
 ### Coin Information
 
-- Detailed information on each cryptocurrency, including historical price charts and market statistics.
-- Access to essential data such as circulating supply, total supply, and all-time highs.
+- Access comprehensive information on thousands of cryptocurrencies.
+- View historical price charts, market statistics, and important details for each coin.
 
 ### User-Friendly Interface
 
-- Intuitive and visually appealing design for easy navigation.
-- Simple and straightforward access to cryptocurrency details and trends.
+- Enjoy a sleek and user-friendly design for effortless navigation.
+- Access cryptocurrency insights and trends with a few taps.
+
+### Favorites
+
+- Mark your favorite cryptocurrencies for quick and easy access.
+- Create a personalized watchlist to monitor your preferred coins.
 
 ### Search
 
-- Search functionality to find specific cryptocurrencies by name or symbol.
-- Autocomplete suggestions for efficient coin lookup.
+- Search for specific cryptocurrencies by name or symbol.
+- Benefit from autocomplete suggestions for efficient coin lookup.
+
+### Portfolio Management
+
+- Organize and track your cryptocurrency holdings in one place.
+- Monitor your portfolio's performance over time.
+
+### Exchanges Information
+
+- Explore details about various cryptocurrency exchanges.
+- View exchange rates, trading pairs, and trading volume for each exchange.
 
 ## Getting Started
 
-1. Clone or download the project repository to your local machine.
+1. Clone or download the Hodl project repository to your local machine.
 2. Open the project in Xcode or your preferred iOS development environment.
 3. Build and run the app on your iOS device or simulator.
 
 ## Dependencies
 
-- This app uses the CoinGecko API for fetching real-time cryptocurrency data. You can find more information about the API at [CoinGecko API](https://coingecko.com/en/api).
+- Hodl relies on the CoinGecko API for fetching real-time cryptocurrency data. You can find more information about the API at [CoinGecko API](https://coingecko.com/en/api).
 
 ## Feedback and Contributions
 
-Feedback and contributions are welcome! If you have suggestions, encounter issues, or want to contribute to this project, please create an issue or a pull request.
+We value your feedback and contributions to make Hodl even better. If you have suggestions, encounter issues, or want to contribute to this project, please create an issue or a pull request.
 
-Feel free to explore the world of cryptocurrencies with the Coin Tracker App for iOS!
-
+Start managing your crypto portfolio with ease using Hodl, your trusted cryptocurrency companion!
